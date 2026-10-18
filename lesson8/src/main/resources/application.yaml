@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:h2:file:./data/deepakdb
+
+app:
+  greeting: Hello from properties
+  
+  mail:
+    host: smtp.deepak.com
+    port: 587
+    enabled: true
