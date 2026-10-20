@@ -1,0 +1,3 @@
+app:
+  mail:
+    host: smtp.dev.local

@@ -1,0 +1,5 @@
+app:
+  mail:
+    host: smtp.deepak.com
+    port: 587
+    enabled: true
